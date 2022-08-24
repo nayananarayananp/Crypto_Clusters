@@ -2,7 +2,7 @@
 ## JupyterLab files
 crypto_investments.ipynb
 This program puts together cryptocurrency-based investing portfolios as an example of unsupervised learning. Using the Jupyter notebook, the cryptocurrency clusters are organized according to their performance throughout various periods. 
-
+![Elbow Curve](images/Screenshot 2022-08-23 212257.png)
 ## Technologies
 The following package from Python 3.7 is used in this project:
 
